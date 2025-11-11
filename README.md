@@ -6,7 +6,6 @@
  Striving to create meaningful impact through innovation and ideas.
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevikaJ2005&layout=compact&theme=tokyonight)
 
 
 
@@ -18,6 +17,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevikaJ2005&layout=compact&theme=tokyonight)
+
 
 
 ---
