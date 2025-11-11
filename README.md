@@ -34,5 +34,5 @@
 ---
 
 ### 📫 Contact
-  LinkedIn: www.linkedin.com/in/devikaj2005 <br>
-  Email: devikaj2005@gmail.com
+<p> Email: devikaj2005@gmail.com </p> LinkedIn: www.linkedin.com/in/devikaj2005 <br>
+ 
