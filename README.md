@@ -6,7 +6,6 @@
  Striving to create meaningful impact through innovation and ideas.
 
 ---
-![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevikaJ2005&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevikaJ2005&layout=compact&theme=tokyonight)
 
 
