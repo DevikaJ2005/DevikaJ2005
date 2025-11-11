@@ -25,7 +25,7 @@
 
 ---
 
-###  Featured Projects
+###  My Projects
 - **Plan My Event** – https://github.com/DevikaJ2005/PlanMyEvent-10-2025-  
   A college event planning app (HTML, CSS, Node.js, MongoDB).
 
