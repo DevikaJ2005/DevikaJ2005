@@ -26,7 +26,8 @@
 ---
 
 ###  My Projects
-- **Plan My Event**- [Live Demo](https://planmyevent.onrender.com/)
+- **Plan My Event**
+-  [Live Demo](https://planmyevent.onrender.com/)<br>
   A college event planning app (HTML, CSS, Node.js, MongoDB).
 
 *More projects coming soon…*
